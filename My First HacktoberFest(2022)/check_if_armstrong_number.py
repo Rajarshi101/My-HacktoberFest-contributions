@@ -2,6 +2,7 @@
 Q. What is an Armstrong number ?
 Ans: An Armstrong number is a number which is equal to the sum of its own digits each raised to the
 power of the number of digits.
+
 Ex: 370 is an Armstrong number because 3*3*3 + 7*7*7 + 0*0*0 = 370.
 """
 
@@ -34,8 +35,10 @@ def main():
 """                   ---::Output::---
 >>> Enter an integer to see if it is an Armstrong number: 7
 7 is an Armstrong number.
+
 >>> Enter an integer to see if it is an Armstrong number: 1634
 1634 is an Armstrong number.
+
 >>> Enter an integer to see if it is an Armstrong number: 10
 10 is not an Armstrong number.
 """
