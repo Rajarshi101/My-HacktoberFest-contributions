@@ -1,6 +1,6 @@
 ### This is the second time I participated in a HacktoberFest.
 
-In this folder, I am storing all the codes that I contributed and got accepted for ***HacktoberFest:2023***
+This year, I did really small contributions. In this folder, I am storing those which got accepted for ***HacktoberFest:2023***
 
 HacktoberFest was fun!!! I liked participating...
 
